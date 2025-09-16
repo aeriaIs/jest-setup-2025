@@ -1,8 +1,13 @@
 # React + TypeScript + Vite + Jest
 
-
 ## Jest setup for React TypeScript Vite project - 2025
-1. Install required Modules
+1. Install required Modules (-D)
+    - jest
+    - ts-jest
+    - @types/jest
+    - @testing-library/react
+    - @testing-library/jest-dom
+    - jest-environment-jsdom ts-node
 2. Setup files
     - jest.setup.ts (inside /test folder)
     - jest.config.ts
